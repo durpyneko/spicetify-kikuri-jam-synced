@@ -35,7 +35,7 @@
                 videoElement.setAttribute("loop", "true");
                 videoElement.setAttribute("autoplay", "true");
                 videoElement.setAttribute("muted", "true");
-                videoElement.setAttribute("style", "width: 65px; height: 65px;");
+                videoElement.setAttribute("style", "width: 140px; height: 77px;");
                 videoElement.src = videoURL;
                 videoElement.id = "catjam-webm";
                 audioData = await fetchAudioData();
