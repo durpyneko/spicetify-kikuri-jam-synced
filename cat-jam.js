@@ -156,7 +156,6 @@
         }
         var app_default = main;
 
-        // C:/Users/chris/AppData/Local/Temp/spicetify-creator/index.jsx
         (async () => {
             await app_default();
         })();
