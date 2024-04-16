@@ -30,7 +30,7 @@
                 if (existingVideo) {
                     existingVideo.remove();
                 }
-                const videoURL = "https://github.com/durpyneko/spicetify-kikuri-jam-synced/blob/main/kikuri.webm";
+                const videoURL = "https://github.com/durpyneko/spicetify-kikuri-jam-synced/raw/main/kikuri.webm";
                 const videoElement = document.createElement("video");
                 videoElement.setAttribute("loop", "true");
                 videoElement.setAttribute("autoplay", "true");
